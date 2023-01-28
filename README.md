@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hrshshrma
-- 👀 I’m interested in backend and platform engineering
+- 👀 I’m interested in backend engineering
 - 🌱 I’m currently learning go lang and distributed systems
 - 💞️ I’m looking to collaborate on projects related to cloud native
 - 📫 How to reach me @ totheharshsharma@gmail.com
